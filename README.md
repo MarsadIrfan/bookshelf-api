@@ -43,14 +43,14 @@ Welcome to **BookShelf API** — A clean, RESTful backend service built with **F
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/bookshelf-api.git
+git clone https://github.com/MarsadIrfan/bookshelf-api.git
 cd bookshelf-api
 ```
 
 ### 2. Install dependencies
 
 ```bash
-pip install flask flask-sqlalchemy flask-resful
+pip install flask flask-sqlalchemy flask-restful
 ```
 
 ### 3. Run server and test
@@ -63,6 +63,8 @@ flask run
 python apiTest.py
 ```
 
+### Note: By following these instructions you are installing the packages in python's global environment.
+
 ---
 
 ### 🧠 Why this project?
@@ -72,6 +74,8 @@ This project is ideal for:
 - Learning Flask and SQLAlchemy integration
 - Building backend skills with Python
 - Unit testing for real-world APIs
+
+---
 
 ### 🌐 License
 This project is open-source under the MIT License. Feel free to fork and expand it!
